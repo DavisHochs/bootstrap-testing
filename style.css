@@ -1,0 +1,9 @@
+.container {
+    background-color: purple;
+    height: 100px;
+}
+.box {
+    background-color: red;
+    height: 100px;  
+    float: left;
+}
